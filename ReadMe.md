@@ -37,8 +37,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ## 📊 GitHub Dashboard
@@ -56,7 +54,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -70,7 +67,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -83,7 +79,6 @@
 
 </div>
 
----
 
 <div align="center">
 
