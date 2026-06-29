@@ -46,6 +46,7 @@
 <br/><br/>
 
 <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averm118&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A3E635&text_color=FFFFFF" />
+<img width="44%" src="https://quickchart.io/chart?width=420&height=260&format=svg&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27AI%20%2F%20ML%27%2C%27Full-Stack%27%2C%27Backend%27%2C%27Cloud%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B35%2C30%2C20%2C15%5D%2CbackgroundColor%3A%5B%27%23A3E635%27%2C%27%2384CC16%27%2C%27%2365A30D%27%2C%27%23D9F99D%27%5D%2CborderColor%3A%27%230D1117%27%2CborderWidth%3A4%7D%5D%7D%2Coptions%3A%7BcutoutPercentage%3A62%2Clegend%3A%7Bposition%3A%27bottom%27%2Clabels%3A%7BfontColor%3A%27%23FFFFFF%27%2CfontSize%3A12%2Cpadding%3A14%7D%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Focus%20Areas%27%2CfontColor%3A%27%23A3E635%27%2CfontSize%3A18%7D%7D%7D" />
 
 <br/><br/>
 
