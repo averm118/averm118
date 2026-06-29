@@ -2,24 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:84CC16,100:0D1117&height=190&section=header&text=Aditya%20Verma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Product%20Builder&descAlignY=55&descSize=16" />
 
-# 👋 Hey, I'm Aditya
-
-### I build AI-native products, full-stack platforms, and polished digital experiences.
-
-I love turning raw ideas into real products — from **AI job-matching platforms** and **RAG systems**  
-to **real-time apps**, **developer tools**, and **premium user experiences**.
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=A3E635&center=true&vCenter=true&width=800&lines=AI+Engineer+%E2%9C%A6+Full-Stack+Developer;Building+AI-native+products+from+0+%E2%86%92+1;Next.js+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Cloud;Learning+fast.+Shipping+faster." alt="Typing SVG" />
-<br/>
-</div>
-
 ---
 
 <div align="center">
 
-## 🚀 About Me
+## 👋 Hey, I'm Aditya
 
 <table>
 <tr>
@@ -48,8 +35,11 @@ to **real-time apps**, **developer tools**, and **premium user experiences**.
 ⚡ I enjoy **shipping fast, solving hard problems, and making software feel premium**  
 🎯 Goal: **build useful technology that feels simple, intelligent, and beautifully designed**
 
-</div>
+<br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=A3E635&center=true&vCenter=true&width=800&lines=AI+Engineer+%E2%9C%A6+Full-Stack+Developer;Building+AI-native+products+from+0+%E2%86%92+1;Next.js+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Cloud;Learning+fast.+Shipping+faster." alt="Typing SVG" />
+<br/>
+</div>
 ---
 
 <div align="center">
