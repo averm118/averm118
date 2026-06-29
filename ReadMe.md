@@ -12,13 +12,7 @@ to **real-time apps**, **developer tools**, and **premium user experiences**.
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=A3E635&center=true&vCenter=true&width=800&lines=AI+Engineer+%E2%9C%A6+Full-Stack+Developer;Building+AI-native+products+from+0+%E2%86%92+1;Next.js+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Cloud;Learning+fast.+Shipping+faster." alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=averm118&label=Profile%20Views&color=84cc16&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/averm118?label=Followers&style=for-the-badge&color=84cc16&labelColor=111827" />
-<img src="https://img.shields.io/github/stars/averm118?label=Stars&style=for-the-badge&color=84cc16&labelColor=111827" />
-
+<br/>
 </div>
 
 ---
@@ -60,20 +54,6 @@ to **real-time apps**, **developer tools**, and **premium user experiences**.
 
 <div align="center">
 
-## ⚡ Core Stack
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,supabase,postgres,tailwind,aws,docker,git&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,java,cpp,mongodb,firebase,azure,vercel,figma,github&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 📊 GitHub Dashboard
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=averm118&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A3E635&icon_color=A3E635&text_color=FFFFFF&rank_icon=github" />
@@ -93,29 +73,13 @@ to **real-time apps**, **developer tools**, and **premium user experiences**.
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+## ⚡ Core Stack
 
-<img width="94%" src="https://github-profile-trophy.vercel.app/?username=averm118&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Profile Summary
-
-<img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=averm118&theme=github_dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,supabase,postgres,tailwind,aws,docker,git&theme=dark" />
 
 <br/><br/>
 
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=averm118&theme=github_dark" />
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=averm118&theme=github_dark" />
-
-<br/><br/>
-
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=averm118&theme=github_dark" />
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=averm118&theme=github_dark&utcOffset=-7" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,java,cpp,mongodb,firebase,azure,vercel,figma,github&theme=dark" />
 
 </div>
 
