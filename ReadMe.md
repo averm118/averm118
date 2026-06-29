@@ -45,12 +45,12 @@
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=averm118&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A3E635&icon_color=A3E635&text_color=FFFFFF&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com?user=averm118&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=9CA3AF" />
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averm118&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A3E635&text_color=FFFFFF" />
 
 <br/><br/>
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averm118&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A3E635&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=averm118&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A3E635&icon_color=A3E635&text_color=FFFFFF&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com?user=averm118&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=9CA3AF" />
 
 </div>
 
