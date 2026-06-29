@@ -1,21 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:84CC16,100:0D1117&height=180&section=header&text=Aditya%20Verma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:84CC16,100:0D1117&height=190&section=header&text=Aditya%20Verma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Product%20Builder&descAlignY=55&descSize=16" />
 
-# 👋 Hi, I'm Aditya Verma
+# 👋 Hey, I'm Aditya
 
-### Software Engineer building AI-native products, full-stack systems, and polished digital experiences.
+### I build AI-native products, full-stack platforms, and polished digital experiences.
 
-I love turning raw ideas into real products — from AI job-matching platforms and RAG systems to real-time apps and developer tools.  
-My work sits at the intersection of **AI**, **full-stack engineering**, **product design**, and **scalable systems**.
+I love turning raw ideas into real products — from **AI job-matching platforms** and **RAG systems**  
+to **real-time apps**, **developer tools**, and **premium user experiences**.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=A3E635&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+AI-native+products;Next.js+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Cloud;Learning+fast.+Shipping+faster." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=A3E635&center=true&vCenter=true&width=800&lines=AI+Engineer+%E2%9C%A6+Full-Stack+Developer;Building+AI-native+products+from+0+%E2%86%92+1;Next.js+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Cloud;Learning+fast.+Shipping+faster." alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=averm118&label=Profile%20Views&color=84cc16&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/averm118?label=Followers&style=for-the-badge&color=84cc16&labelColor=111827" />
+<img src="https://img.shields.io/github/stars/averm118?label=Stars&style=for-the-badge&color=84cc16&labelColor=111827" />
 
 </div>
-
-<br/>
 
 ---
 
@@ -23,64 +27,97 @@ My work sits at the intersection of **AI**, **full-stack engineering**, **produc
 
 ## 🚀 About Me
 
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td align="left" width="850">
-
-- 🔭 Currently building **AI-powered products, intelligent agents, and full-stack platforms**
-- 🧠 Interested in **LLMs, RAG, semantic search, distributed systems, and product engineering**
-- ⚡ I enjoy **shipping fast, solving hard problems, and making software feel premium**
-- 🎯 Goal: **build useful technology that feels simple, intelligent, and beautifully designed**
-
+<td align="center" width="260">
+  <b>AI Products</b>
+  <br/>
+  LLMs, RAG, agents, semantic search
+</td>
+<td align="center" width="260">
+  <b>Full-Stack Systems</b>
+  <br/>
+  Next.js, APIs, databases, cloud
+</td>
+<td align="center" width="260">
+  <b>Product Design</b>
+  <br/>
+  Premium UX, clean interfaces, fast flows
 </td>
 </tr>
 </table>
 
 <br/>
 
----
-
-<div align="center">
-
-## ⚡ Tech Stack
-
-### Core Languages
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp&theme=dark" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" />
-
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb,firebase&theme=dark" />
-
-### AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-
-### Cloud & Tools
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vercel&theme=dark" />
+🔭 Currently building **AI-powered platforms and intelligent developer tools**  
+🧠 Interested in **LLMs, RAG, semantic search, distributed systems, and product engineering**  
+⚡ I enjoy **shipping fast, solving hard problems, and making software feel premium**  
+🎯 Goal: **build useful technology that feels simple, intelligent, and beautifully designed**
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## ⚡ Core Stack
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=averm118&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A3E635&icon_color=A3E635&text_color=FFFFFF" />
-<img width="48%" src="https://streak-stats.demolab.com?user=averm118&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=A3E635&fire=A3E635&currStreakLabel=A3E635" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,supabase,postgres,tailwind,aws,docker,git&theme=dark" />
 
 <br/><br/>
 
-<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averm118&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A3E635&text_color=FFFFFF" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,java,cpp,mongodb,firebase,azure,vercel,figma,github&theme=dark" />
 
 </div>
 
-<br/>
+---
+
+<div align="center">
+
+## 📊 GitHub Dashboard
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=averm118&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A3E635&icon_color=A3E635&text_color=FFFFFF&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com?user=averm118&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=9CA3AF" />
+
+<br/><br/>
+
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averm118&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A3E635&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=averm118&bg_color=0D1117&color=A3E635&line=A3E635&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img width="94%" src="https://github-profile-trophy.vercel.app/?username=averm118&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Profile Summary
+
+<img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=averm118&theme=github_dark" />
+
+<br/><br/>
+
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=averm118&theme=github_dark" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=averm118&theme=github_dark" />
+
+<br/><br/>
+
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=averm118&theme=github_dark" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=averm118&theme=github_dark&utcOffset=-7" />
+
+</div>
 
 ---
 
@@ -94,8 +131,6 @@ My work sits at the intersection of **AI**, **full-stack engineering**, **produc
 </picture>
 
 </div>
-
-<br/>
 
 ---
 
@@ -113,8 +148,8 @@ My work sits at the intersection of **AI**, **full-stack engineering**, **produc
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:84CC16,100:0D1117&height=120&section=footer" />
-
 ### “Build fast. Learn deeply. Ship beautifully.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:84CC16,100:0D1117&height=120&section=footer" />
 
 </div>
