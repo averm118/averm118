@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:84CC16,100:0D1117&height=190&section=header&text=Aditya%20Verma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Product%20Builder&descAlignY=55&descSize=16" />
 
----
-
-<div align="center">
-
-## 👋 Hey, I'm Aditya
+# 👋 Hey, I'm Aditya
 
 <table>
 <tr>
@@ -38,8 +34,9 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=A3E635&center=true&vCenter=true&width=800&lines=AI+Engineer+%E2%9C%A6+Full-Stack+Developer;Building+AI-native+products+from+0+%E2%86%92+1;Next.js+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Cloud;Learning+fast.+Shipping+faster." alt="Typing SVG" />
-<br/>
+
 </div>
+
 ---
 
 <div align="center">
