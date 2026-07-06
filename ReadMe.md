@@ -39,18 +39,20 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 📊 GitHub Dashboard
 
 <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=averm118&bg_color=0D1117&color=A3E635&line=A3E635&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
 
 <br/><br/>
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averm118&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A3E635&text_color=FFFFFF" />
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=averm118&theme=github_dark" />
 <img width="44%" src="https://quickchart.io/chart?width=420&height=260&format=svg&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27AI%20%2F%20ML%27%2C%27Full-Stack%27%2C%27Backend%27%2C%27Cloud%27%2C%27DevOps%27%2C%27Design%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B30%2C25%2C18%2C12%2C8%2C7%5D%2CbackgroundColor%3A%5B%27%23A3E635%27%2C%27%2322D3EE%27%2C%27%23A78BFA%27%2C%27%23FACC15%27%2C%27%23FB7185%27%2C%27%2334D399%27%5D%2CborderColor%3A%27%230D1117%27%2CborderWidth%3A4%7D%5D%7D%2Coptions%3A%7BcutoutPercentage%3A62%2Clegend%3A%7Bposition%3A%27bottom%27%2Clabels%3A%7BfontColor%3A%27%23FFFFFF%27%2CfontSize%3A12%2Cpadding%3A14%7D%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Focus%20Areas%27%2CfontColor%3A%27%23A3E635%27%2CfontSize%3A18%7D%7D%7D" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=averm118&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A3E635&icon_color=A3E635&text_color=FFFFFF&rank_icon=github" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=averm118&theme=github_dark" />
 <img width="49%" src="https://streak-stats.demolab.com?user=averm118&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=9CA3AF" />
 
 </div>
